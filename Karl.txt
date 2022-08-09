@@ -1,4 +1,3 @@
 name: Karl Amadeus Finsson Hansen
 color: Blue
 food: Pizza
-
